@@ -1,0 +1,13 @@
+.first-el, .second-el {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif; 
+}
+
+.first-el {
+    background-color: rgb(00, 00, 00);
+    color: rgb(255, 255 , 255);
+}
+
+.second-el {
+    background-color: rgb(255, 255, 0);
+}
