@@ -7,6 +7,70 @@ img {
   height: 100px;
 }
 
+.top {
+  display: flex;
+  justify-content: center;
+}
+
+.imgs {
+  display: flex;
+  margin-top: 32px;
+  justify-content: center;
+  gap: 52px;
+}
+
+.img1andtext1 {
+  width: 200px;
+}
+
+.img2andtext2 {
+  width: 200px;
+}
+
+.img3andtext3 {
+  width: 200px;
+}
+
+.img4andtext4 {
+  width: 200px;
+}
+
+.img1 {
+  display: flex;
+  justify-content: center;
+}
+
+.text1 {
+  text-align: center;
+}
+
+.img2 {
+  display: flex;
+  justify-content: center;
+}
+
+.text2 {
+  text-align: center;
+}
+
+.img3 {
+  display: flex;
+  justify-content: center;
+}
+
+.text3 {
+  text-align: center;
+}
+
+.img4 {  
+  display: flex;
+  justify-content: center;
+}
+
+.text4 {
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
